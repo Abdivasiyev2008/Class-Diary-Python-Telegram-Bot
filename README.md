@@ -1,1 +1,1 @@
-# Class-Diary-Python-Telegram-Bot
+# Kundalik-telegram-Bot
